@@ -182,7 +182,7 @@ Primary use:    pxdraft
 }
 .footer .nav a {
   color: rgba(255, 255, 255, 0.8);
-  margin-right: 10px;
+  margin-right: 20px;
 }
 .white-theme .footer .nav a {
   color: rgba(41, 41, 41, 0.8);
@@ -993,7 +993,7 @@ main {
   border: 1px solid #ff1b1b !important;
 }
 .contact-info {
-  padding-top: 90px;
+  padding-top: 40px;
 }
 .contact-info .contact-name .icon {
   border: 1px solid rgba(255, 255, 255, 0.1);
