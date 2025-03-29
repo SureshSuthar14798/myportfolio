@@ -679,16 +679,13 @@ main {
   border: 1px solid #fff;
 }
 .about-section .about-img-box .social-icons a:hover {
-  background: #000;
-}
-.about-section .about-img-box .social-icons a.twitter {
-  top: 15px;
+  background-size: 200% 200%;
 }
 .about-section .about-img-box .social-icons a.instagram {
   top: 20px;
 }
 .about-section .about-img-box .social-icons a.linkedin {
-  top: 17px;
+  top: 10px;
 }
 .about-section .about-img {
   position: relative;
