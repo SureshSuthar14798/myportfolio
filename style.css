@@ -558,13 +558,13 @@ main {
   perspective: 1000px; /* Adds depth effect */
 }
 .home-image img {
-  filter: opacity(0.6);
+  filter: opacity(0.8);
   width: 100%;
   height: 100%;
   transition: transform 0.2s ease-out;
   transform-style: preserve-3d;
-  border-radius: 20px;
-  box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.663);
+  border-radius: 100%;
+  box-shadow: 0px 0px 50px rgb(126 126 126);
 }
 .home-section .home-image svg {
   width: 100%;
