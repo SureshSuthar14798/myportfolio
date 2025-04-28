@@ -550,7 +550,7 @@ main {
 }
 @media (max-width: 991px) {
   .home-section .min-vh-100 {
-    padding-bottom: 0;
+    padding-bottom: 30px;
     padding-top: 130px;
   }
 }
